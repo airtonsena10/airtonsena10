@@ -1,4 +1,4 @@
-# 👨🏻‍💻  Hi. Airton Sena  varjâo dantas
+# 👨🏻‍💻  Hi. Airton Sena
  
 
  ### Estudante de Sistemas de informaçâo e desenvolvimento Web.
