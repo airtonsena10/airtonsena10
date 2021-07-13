@@ -1,6 +1,6 @@
 # Olá 👋, sou Airton Sena dantas.
 
-_Front-end Developer. Cursando sistemas de informação. Também estou Estudando e expandindo conhecimento em Front-End, Frameworks e novas Tecnologias.Atualmente estou aprendendo JavaScript, ReactJS e NodeJS ✊🏽 .Sempre buscando novas formas de me tornar um profissional
+_Front-end Developer. Cursando sistemas de informação. Também estou Estudando e expandindo conhecimento em Front-End, Frameworks e novas Tecnologias.Atualmente estou aprendendo JavaScript, ReactJS✊🏽 .Sempre buscando novas formas de me tornar um profissional
 melhor.😀_
 
 ### Meu site : [Acessar](https://airtonfolio.vercel.app/)
