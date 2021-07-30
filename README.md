@@ -10,7 +10,7 @@ melhor.😀_
 </div>
  
 
-  #### [Porfolio (desivolvimento)](https://airtonfolio.vercel.app/)
+  #### [Porfolio (desenvolvimento)](https://airtonfolio.vercel.app/)
 
  </br>
 
