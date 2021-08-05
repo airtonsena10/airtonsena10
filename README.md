@@ -4,7 +4,7 @@ _Front-end Developer. Cursando sistemas de informação. Também estou Estudando
 melhor.😀_
 
 <div>
-  <a href="https://github.com/airtonsena10">
+  <a href="https://www.linkedin.com/in/airtonsena/">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=airtonsena10&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonsena10&layout=compact&langs_count=16&theme=nord"/>
 </div>
