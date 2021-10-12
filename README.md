@@ -3,7 +3,7 @@
 _Front-end Developer,entusiasta em tecnologia web ,Sempre buscando novas formas de me tornar um profissional
 melhor.😀_
 
-<img align="right" height="350" width="550" src="https://airtonfolio.vercel.app/images/home.png" />
+<img align="right" height="360" width="550" src="https://airtonfolio.vercel.app/images/home.png" />
 
 
 ### 👨🏻‍💻 Sobre Me 
