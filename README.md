@@ -10,11 +10,11 @@ melhor.😀_
 
 
 
-- 🎓 &nbsp; Graduando de sistemas de informaçâo
+ _🎓 &nbsp; Graduando de sistemas de informaçâo_
 
-- 💼 &nbsp; Atuando como Desenvolvedor Traineer na Badico cloud engineering
+_💼 &nbsp; Atuando como Desenvolvedor Traineer na Badico cloud engineering_
 
-- 🌱 &nbsp; Estudando  React, Typescript , Node.js, PostegresSQL
+_🌱 &nbsp; Estudando  React, Typescript , Node.js, PostegresSQL_
 
 
 
