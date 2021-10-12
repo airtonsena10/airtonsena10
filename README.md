@@ -1,4 +1,4 @@
-# Olá 👋, sou Airton Sena dantas.
+## Olá 👋, sou Airton Sena dantas.
 
 _Front-end Developer. Cursando sistemas de informação. Também estou Estudando e expandindo conhecimento em Front-End, Frameworks e novas Tecnologias.Atualmente estou aprendendo JavaScript, ReactJS✊🏽 .Sempre buscando novas formas de me tornar um profissional
 melhor.😀_
@@ -6,6 +6,9 @@ melhor.😀_
 <div>
   <a href="https://www.linkedin.com/in/airtonsena/">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=airtonsena10&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+    
+    
+    
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonsena10&layout=compact&langs_count=16&theme=nord"/>
 </div>
  
