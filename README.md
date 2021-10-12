@@ -12,7 +12,7 @@ melhor.😀_
 
  _🎓 &nbsp; Graduando de sistemas de informaçâo_
 
-_💼 &nbsp; Atuando como Desenvolvedor Traineer na Badico cloud engineering_
+_💼 &nbsp; Atuando como Desenvolvedor Trainee na Badico cloud engineering_
 
 _🌱 &nbsp; Estudando  React, Typescript , Node.js, PostegresSQL_
 
