@@ -8,7 +8,7 @@ melhor.😀_
 
 ### 👨🏻‍💻 Sobre Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
 
 - 🎓 &nbsp; Graduando de sistemas de informaçâo
 
