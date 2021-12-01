@@ -6,13 +6,8 @@ _💼 &nbsp; Atuando como Desenvolvedor Trainee na Badico cloud engineering_
 
 _🌱 &nbsp; Estudando  React, Typescript , Node.js, PostegresSQL_
 
-<hr>
-<div align="center">
-     <a href="https://github.com/airtonsena10/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=airtonsena10&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonsena10&&layout=compact&theme=tokyonight" />
-  </a>
-</div>
+
+
 
 <hr>
 <div>
