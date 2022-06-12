@@ -6,7 +6,11 @@
 
 _💼 &nbsp; Atuando como Desenvolvedor Trainee na Badico cloud engineering_
 
-🌱 &nbsp; Estudando  React, Typescript , Node.js, 
+🌱 &nbsp; Sempre estudando sobre Typescript, Javascript, NodeJS, React.
+
+🔭 &nbsp; Sempre tentando avançar para o proximo nível.
+
+
 
 <hr>
 <div>
