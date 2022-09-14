@@ -1,48 +1,46 @@
-###                                                          Olá 👋, Seja bem vindo
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
-<img src="https://svgshare.com/i/iCu.svg">
+<h1 align="center" > Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
- _🎓 &nbsp; Graduando de sistemas de informaçâo_
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-_💼 &nbsp; Atuando como Desenvolvedor Trainee na Badico cloud engineering_
+## 💡 Sobre mim :
+ - *Me chamo Airton Sena varjâo dantas e sou da Bahia* 
 
-🌱 &nbsp; Sempre estudando sobre Typescript, Javascript, NodeJS, React.
+ - *Curso  Sistemas de informçâo na universidade pitágoras unopar* 
+ 
+ - *Apaixonado por Desenvolvimento Web, em especial por Front End 💙* 
+ 
+ - *Desenvolvedor Traineer na Badico cloud engineering 🚀*
+ 
+## 🔮 Minha Stack
+ Essas são algumas das tecnologias que uso no dia a dia
 
-
-
-
-
-<hr>
-<div>
-
-_**Habilidades e ferramentas**_
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="95" height="30"/> 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="git" width="95" height="30"/> 
-  
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="95" height="30"/> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="95" height="30"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="95" height="30"/> 
-<div>
-
-<hr>
-
- **Encontre Me em**
-<br>
-<div>
-  
-  <a href="https://twitter.com/airtonsvd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/airtonsena/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
-  </a>
-  <a href="https://www.instagram.com/airtonsena10/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/>
-  </a>
-  
+<div align="center">
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
 </div>
 
 
+## 📈 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/airtonsena10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonsena10&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airtonsena10&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
+
+ 
+
+
+## :speech_balloon: Vamos conversar  
+
+Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
+
+<div align="center">
+<a href="https://twitter.com/airtonsvd" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href="https://github.com/airtonsena10"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/airtonsena10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://airtonjs.codes/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/airtonsena" target="_blank">
+ 
+#
+ 
 
