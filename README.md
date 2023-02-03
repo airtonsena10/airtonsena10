@@ -9,7 +9,6 @@
  
  - *Apaixonado por Desenvolvimento Web, em especial por Front End 💙* 
  
- - *Front End Developer na Badico cloud engineering 🚀*
  
 ## 🔮 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
