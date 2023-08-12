@@ -37,9 +37,6 @@
 </div>
 
 
- 
-
-
 ## :speech_balloon: Vamos conversar  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
