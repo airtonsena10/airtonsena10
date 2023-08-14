@@ -5,7 +5,7 @@
 ## 💡 Sobre mim :
  - *Me chamo Airton Sena varjâo dantas e sou da Bahia* 
 
- - *Curso  Sistemas de informçâo na universidade pitágoras unopar* 
+ - *Curso  Sistemas de informçâo na UNOPAR - Universidade Norte do Paraná* 
  
  - *Apaixonado por Desenvolvimento Web, em especial por Front End 💙* 
  
