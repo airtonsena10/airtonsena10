@@ -44,7 +44,7 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 <div align="center">
 <a href="https://twitter.com/airtonsvd" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href="https://github.com/airtonsena10">
  <img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/airtonsena10" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://airtonjs.codes/" target="_blank"></a>  <a href="https://www.linkedin.com/in/airtonsena" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://airtonjs.codes/" target="_blank"></a>  <a href="https://www.linkedin.com/in/airtonsena" target="_blank">
  
 #
  
