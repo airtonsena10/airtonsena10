@@ -30,7 +30,7 @@
  <a href="https://github.com/airtonsena10/Discoverylibrary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=discoverylibrary&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/airtonsena10/github-blog">
+<a href="https://github.com/airtonsena10/seachceps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=github-blog&theme=react&hide_border=true" />
 </a>
 
