@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=discoverylibrary&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/airtonsena10/seachceps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=github-blog&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=seachceps&theme=react&hide_border=true" />
 </a>
 
 </div>
