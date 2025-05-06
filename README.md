@@ -27,8 +27,8 @@
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a href="https://github.com/airtonsena10/Discoverylibrary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=discoverylibrary&theme=react&hide_border=true" />
+ <a href="https://github.com/airtonsena10/dashfinance">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=dashfinance&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/airtonsena10/seachceps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=seachceps&theme=react&hide_border=true" />
