@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Airton! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario coding" width="400">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario coding" width="1000">
 </p>
 
 ## 👨‍💻 Sobre mim
