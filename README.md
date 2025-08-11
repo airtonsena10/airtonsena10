@@ -26,7 +26,7 @@ Essas são algumas das tecnologias que uso no dia a dia:
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a href="https://github.com/airtonsena10/dashfinance">
+ <a href="https://github.com/airtonsena10/photo-studio-mvp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=dashfinance&theme=react&hide_border=true" alt="DashFinance Repo Stats"/>
 </a>
 <a href="https://github.com/airtonsena10/seachceps">
