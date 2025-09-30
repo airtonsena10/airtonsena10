@@ -29,8 +29,8 @@ Essas são algumas das tecnologias que uso no dia a dia:
  <a href="https://github.com/airtonsena10/photo-studio-mvp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=photo-studio-mvp&theme=react&hide_border=true" alt="photo-studio-mvp Repo Stats"/>
 </a>
-<a href="https://github.com/airtonsena10/seachceps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=seachceps&theme=react&hide_border=true" alt="SearchCEPs Repo Stats"/>
+<a href="https://github.com/airtonsena10/mvpdesafionode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=mvpdesafionode&theme=react&hide_border=true" alt="desafionode Repo Stats"/>
 </a>
 </div>
 
