@@ -21,7 +21,7 @@
 
 Desenvolvo aplicações web completas — da interface ao servidor — com foco em **qualidade de código, performance e entrega em produção**.
 
-Mais de **4 anos** construindo produtos reais com React, Next.js e Node.js. Hoje expando consistentemente para o back-end: APIs REST com autenticação, controle de acesso por roles, ORMs, Docker e deploy em infraestrutura própria (VPS, Nginx, PM2, Cloudflare).
+Mais de **4 anos** construindo produtos reais com React, Next.js e Node.js. Hoje expando consistentemente para o back-end: APIs REST com autenticação, controle de acesso por roles, ORMs, Docker e deploy (VPS, Cloudflare).
 
 Integro IAs no desenvolvimento e nos produtos: GitHub Copilot no workflow, e **OpenAI, Anthropic e Gemini** via API em aplicações reais.
 
