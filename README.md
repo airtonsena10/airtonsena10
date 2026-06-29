@@ -73,7 +73,7 @@ API back-end construída para demonstrar domínio de boas práticas de engenhari
 
 ## Disponível para oportunidades
 
-Estou aberto a posições **Full Stack, Front-end Sênior ou Back-end Júnior/Pleno** — remoto ou híbrido.
+Estou aberto a posições **Full Stack, Front-end Pleno ou Back-end Júnior/Pleno** — remoto ou híbrido.
 
 Se você está construindo um produto com alta qualidade técnica e precisa de alguém que **entenda o negócio, escreva código limpo e entregue em produção**, vamos conversar.
 
