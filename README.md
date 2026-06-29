@@ -1,46 +1,87 @@
-<h1 align="center">Olá, eu sou  Airton! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario coding" width="1000">
-</p>
-
-## 👨‍💻 Sobre mim
-
- - 🎓 Bacharel em Sistemas de Informação
-- 💡 Entusiasta do Desenvolvimento Web, em especial por Front End.
-- 💻 Atualmente, exploro tecnologias Back-end visando aprimorar minhas competências como desenvolvedor Front-end e contribuir para a criação de soluções web mais robustas e eficientes.
-- 🚀 Sempre em busca de novos desafios e aprendizados para evoluir continuamente na área de desenvolvimento.
-
-## 🔮 Minha Stack
-Essas são algumas das tecnologias que uso no dia a dia:
 
 <div align="center">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW51eXU2bjV3anB1M2djYnAwY3J0YTMwcHE2a3hjZjk5ZTg5ZWg1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="React">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF6ZDB3b2I2MHNqbzFkMXplamU0N2hicTVsaXRsZnJucjk1NHE1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="JavaScript">
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" alt="HTML5">
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUxNTNuNjAxM2hka3ZuMmthdnFtM3p6d3VtcWhldGoyYnF0a2ljcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt="CSS3">
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" alt="Git">
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" alt="Node.js">
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="TypeScript">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Building+products+that+ship+to+production." alt="Typing SVG" />
+
+<br/>
+
+**Airton Sena** · Full Stack Developer · Bahia, Brasil
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/airtonjs.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://airtonjs.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airtonsena)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airton@airtonjs.dev)
+
 </div>
 
-## 🔥 Meus repos favoritos
+---
+
+## O que eu faço
+
+Desenvolvo aplicações web completas — da interface ao servidor — com foco em **qualidade de código, performance e entrega em produção**.
+
+Mais de **4 anos** construindo produtos reais com React, Next.js e Node.js. Hoje expando consistentemente para o back-end: APIs REST com autenticação, controle de acesso por roles, ORMs, Docker e deploy em infraestrutura própria (VPS, Nginx, PM2, Cloudflare).
+
+Integro IAs no desenvolvimento e nos produtos: GitHub Copilot no workflow, e **OpenAI, Anthropic e Gemini** via API em aplicações reais.
+
+> Antes de escolher a stack, entendo o produto. Antes de escrever código, entendo o problema.
+
+---
+
+## Stack
+
+```
+Front-end   →   Next.js · React · TypeScript · Tailwind CSS · Framer Motion
+Back-end    →   Node.js · Fastify · Prisma ORM · MySQL · Supabase · REST APIs
+Auth        →   JWT · bcrypt · RBAC (Role-Based Access Control)
+DevOps      →   Docker · Cloudflare · Vercel · Render · VPS
+Qualidade   →   Zod · Swagger · Git · ESLint
+IA          →   OpenAI API · Anthropic API · Google Gemini API
+```
+
+---
+
+## Projetos em Produção
+
+### 📸 Photo Studio SaaS
+Sistema de gestão para estúdios fotográficos — **em evoluçâo para uma sass**.
+
+- Autenticação, gestão de clientes, agendamentos e cobrança integrada
+- Pagamentos com **Mercado Pago** e armazenamento via **Supabase**
+- Front-end em **Next.js + TypeScript**, back-end desacoplado e escalável
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/airtonsena10/photo-studio-mvp)
+
+---
+
+### ⚡ MVP Desafio Node — API REST com Autenticação Completa
+API back-end construída para demonstrar domínio de boas práticas de engenharia.
+
+- Autenticação **JWT + bcrypt**, controle de acesso por **roles (RBAC)**
+- Validação de dados com **Zod**, documentação automática via **Swagger**
+- ORM com **Prisma + MySQL**, containerizado com **Docker**, deploy no **Render**
+- Arquitetura limpa e código testável
+
+[![Repositório](https://img.shields.io/badge/Ver_repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/airtonsena10/mvpdesafionode)
+
+
+
+
+
+---
+
+## Disponível para oportunidades
+
+Estou aberto a posições **Full Stack, Front-end Sênior ou Back-end Júnior/Pleno** — remoto ou híbrido.
+
+Se você está construindo um produto com alta qualidade técnica e precisa de alguém que **entenda o negócio, escreva código limpo e entregue em produção**, vamos conversar.
+
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airtonsena)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://airtonjs.dev)
+
+---
 
 <div align="center">
- <a href="https://github.com/airtonsena10/photo-studio-mvp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=photo-studio-mvp&theme=react&hide_border=true" alt="photo-studio-mvp Repo Stats"/>
-</a>
-<a href="https://github.com/airtonsena10/mvpdesafionode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=airtonsena10&repo=mvpdesafionode&theme=react&hide_border=true" alt="desafionode Repo Stats"/>
-</a>
-</div>
-
-## :speech_balloon: Vamos conversar
-
-Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
-
-<div align="center">
-  <a href="https://twitter.com/airtonsvd" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://github.com/airtonsena10" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="https://www.linkedin.com/in/airtonsena" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://airtonjs.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-Meu%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Meu Portfólio"></a>
+  <sub>© 2026 Airton Sena · Bahia, Brasil</sub>
 </div>
